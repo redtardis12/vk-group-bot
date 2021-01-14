@@ -9,7 +9,7 @@
 
 ## EN
 
-### Bot for maintaining a group VKontakte
+### Bot for maintaining a VKontakte group
 
 A simple VK bot for periodically publishing materials from websites on Selenium.
 Also an example file for scheduling posting.
