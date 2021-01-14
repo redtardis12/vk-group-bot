@@ -4,12 +4,12 @@
 
 ### Бот для ведения паблика вконтакте
 
-Простой вк бот для периодичной публикаций материалов с веб-сайтов на Selenium
+Простой вк бот для периодичной публикаций материалов с веб-сайтов на Selenium.
 Также пример файла для составления расписания постинга.
 
 ## EN
 
 ### Bot for maintaining a group VKontakte
 
-A simple VK bot for periodically publishing materials from websites on Selenium
+A simple VK bot for periodically publishing materials from websites on Selenium.
 Also an example file for scheduling posting.
